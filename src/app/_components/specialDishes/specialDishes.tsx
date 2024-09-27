@@ -57,7 +57,7 @@ export function SpecialDishes() {
           </div>
         </div>
 
-        <div className="flex flex-col gap-10 lg:flex-row justify-around items-center mb-[92px] lg:mb-[200px]">
+        <div className="flex flex-col gap-10 lg:flex-row justify-around items-center mb-[92px] mt-10 lg:mt-[100px] lg:mb-[200px]">
           <Image
             src={dishe2}
             alt="Prato detalhando a pagina"
